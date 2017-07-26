@@ -5,6 +5,10 @@ The most basic GitHub page for reference.
 ## Introduction
 A free, quality hosting solution is to use GitHub pages.
 
+TODO
+* copy this repo
+* activate GitHub Pages in repo's settings
+
 ## Interesting reads
 Links:
 * https://github.com/Offirmo-team/wiki/wiki/GitHub#h%C3%A9bergement-pages
